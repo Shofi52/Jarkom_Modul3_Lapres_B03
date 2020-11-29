@@ -83,4 +83,4 @@
 ### 12. Ketika menggunakan proxy cukup dengan mengetikkan domain janganlupa-ta.b03.pw dan memasukkan port 8080.
 - Domain `http://janganlupa-ta.b03.pw` diatur DNS di Malang dan mengarah ke IP Tuban (`10.151.83.36`)
 
-![12](modul3/12.PNGS)
+![12](modul3/12.PNG)
